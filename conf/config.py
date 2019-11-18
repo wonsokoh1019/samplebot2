@@ -3,7 +3,7 @@
 import os
 
 # account
-ADMIN_ACCOUNT = "admin@lwbottest02.com"
+ADMIN_ACCOUNT = "admin@lwbottest02"
 DOMAIN_ID = 10123847
 
 # api
