@@ -15,7 +15,7 @@ SERVER_ID = "f7cecbb969b74579b90390406412108f"
 PRIVATE_KEY_NAME = "private_20191118171347.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://10.105.180.133:8080/"
+LOCAL_ADDRESS = "https://samplebot2-app.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-174-129-253-146.compute-1.amazonaws.com"
