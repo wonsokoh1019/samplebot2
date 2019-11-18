@@ -18,9 +18,9 @@ PRIVATE_KEY_NAME = "private_20191118171347.key"
 LOCAL_ADDRESS = "https://10.105.180.133:8080/"
 
 # DB config
-DB_HOST = "10.106.151.241"
+DB_HOST = "ec2-174-129-253-146.compute-1.amazonaws.com"
 DB_PORT = "5432"
-DB_NAME = "dbwyc"
-DB_USER = "dbtest"
-DB_PASSWORD = "123456"
+DB_NAME = "dkel89pkpt07s"
+DB_USER = "wugikgwcvueoca"
+DB_PASSWORD = "ab1acc91ebaa63807cf3aea45791990e8f6b56e04e268be5d2307301548d091a"
 DB_SSLMODE = "prefer"
